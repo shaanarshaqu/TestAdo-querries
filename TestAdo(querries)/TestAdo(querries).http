@@ -1,0 +1,6 @@
+@TestAdo_querries__HostAddress = http://localhost:5212
+
+GET {{TestAdo_querries__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
